@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ([https://your-solution-url.com](https://www.frontendmentor.io/solutions/order-summary-component-YcOBcdWNWG))
+- Live Site URL: ([https://your-live-site-url.com](https://challenge-2-gamma.vercel.app/))
 
 ## My Process
 
