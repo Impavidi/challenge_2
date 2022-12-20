@@ -6,7 +6,7 @@ body
 	background-color: hsl(225, 100%, 94%);
 	display: flex;
 	align-items: center;
-	min-heigth: 100hv;
+	min-height: 100hv;
 }
 main
 {
